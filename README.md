@@ -1,4 +1,4 @@
-#  Sales Performance Analytics Dashboard
+#  Sales Performance Analytics
 
 ##  Project Overview
 
