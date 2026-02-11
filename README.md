@@ -54,7 +54,7 @@ All analysis was performed in Python using exploratory and statistical technique
 
 #  Visualization & Insights
 
-An interactive Power BI dashboard was developed to present key trends and performance indicators. The dashboard file is located in the powerbi folder.
+An interactive Power BI dashboard was developed to present key trends and performance indicators. The dashboard file is located in the #powerbi folder#.
 
 - Visualized revenue and profit trends across products channels and regions
 - Enabled stakeholders to explore seasonal trends and anomalies
