@@ -22,23 +22,23 @@ Dashboard file available in the powerbi folder.
 
 #  Key Metrics (KPIs)
 
-Monthly Sales Trend Over Time
+- Monthly Sales Trend Over Time
 
-Top 10 Products by Revenue
+- Top 10 Products by Revenue
 
-Top 10 Products by Average Profit Margin
+- Top 10 Products by Average Profit Margin
 
-Sales by Channel
+- Sales by Channel
 
-Total Sales by State
+- Total Sales by State
 
-Total Sales by US Region
+- Total Sales by US Region
 
-Average Order Value AOV Distribution
+- Average Order Value AOV Distribution
 
-Top and Bottom 10 Customers by Revenue
+- Top and Bottom 10 Customers by Revenue
 
-Top State Performance Revenue vs Orders
+- Top State Performance Revenue vs Orders
 
 
 #  Data Preparation & Modeling
